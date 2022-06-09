@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pizza
+  - Customer
+  - boost
+  - bump
   layers:
   - Default
   - TransparentFX
